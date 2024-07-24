@@ -1,0 +1,9 @@
+{
+  "name": "cats-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/cats-app-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["cats-app"],
+  "// targets": "to see all targets run: nx show project cats-app-e2e --web",
+  "targets": {}
+}
