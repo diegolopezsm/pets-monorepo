@@ -12,6 +12,8 @@ export default function Index() {
             <h1>
               <span> Hello there, </span>
               Welcome cats-app 👋
+              <br />
+              Cats are cute 3
             </h1>
           </div>
 
